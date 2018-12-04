@@ -8,5 +8,6 @@ public class LearnSourceTreeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LearnSourceTreeApplication.class, args);
+		String test1;
 	}
 }
